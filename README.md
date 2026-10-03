@@ -1,10 +1,5 @@
 <div align="center">
 
-<img src="./assets/profile-character.png" alt="Suraj Chauhan" width="850">
-
-</div>
-<div align="center">
-
 <img src="./assets/profile-character.png" alt="Suraj Chauhan Developer Profile" width="100%">
 
 # 👋 Hi, I'm Suraj Chauhan
@@ -21,9 +16,11 @@
 
 Hi! I'm **Suraj Chauhan**, a Computer Science Engineering graduate and aspiring software developer.
 
-I enjoy building practical applications using **Java, Spring Boot, React, databases and modern cloud technologies**.
+I enjoy building practical applications using **Java, Spring Boot, React, databases, and modern cloud technologies**.
 
-I'm currently focusing on becoming a strong **Java Backend / Full Stack Developer** while exploring **Microservices, Cloud Computing and AI/ML**.
+I'm currently focusing on becoming a strong **Java Backend / Full Stack Developer** while exploring **Microservices, Cloud Computing, and AI/ML**.
+
+### 💻 What I Work With
 
 ```text
 ☕ Java & Spring Boot
