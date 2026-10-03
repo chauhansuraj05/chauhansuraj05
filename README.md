@@ -139,3 +139,133 @@ Running • Traveling
 | 🧩 Architecture | REST APIs, Microservices |
 | ☁️ Cloud & DevOps | AWS, Docker, Git, GitHub, Maven |
 | 🤖 AI | AI/ML, Spring AI, RAG, Agentic AI |
+
+
+---
+
+# 🚀 Featured Projects
+
+<div align="center">
+
+<table>
+<tr>
+
+<td width="50%">
+
+## 🛒 ShopSphere
+
+### E-Commerce Microservices
+
+A full-stack e-commerce application designed using a microservices architecture.
+
+**Tech Stack**
+
+`Java` `Spring Boot` `React`  
+`PostgreSQL` `Spring Security` `JWT`  
+`Docker` `AWS`
+
+**Features**
+
+- 🔐 Authentication & Authorization
+- 👤 User Management
+- 🛍️ Product Management
+- 🛒 Shopping Cart
+- 📦 Order Management
+- 🔗 REST APIs
+- 🧩 Microservices
+
+</td>
+
+<td width="50%">
+
+## 📚 Library Management
+
+### Full Stack Application
+
+A library management system for managing books, users and library operations.
+
+**Tech Stack**
+
+`Java` `Spring Boot` `React`  
+`MySQL` `JPA/Hibernate` `REST API`
+
+**Features**
+
+- 📖 Book Management
+- 👤 User Management
+- 🔍 Book Search
+- 📚 Library Operations
+- 🔗 REST APIs
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+## ⚡ Electricity Billing System
+
+### Java Desktop Application
+
+A Java Swing application for customer management and electricity billing.
+
+**Tech Stack**
+
+`Java` `Swing` `JDBC` `PostgreSQL`
+
+**Features**
+
+- 👤 Customer Management
+- ⚡ Electricity Billing
+- 🧾 Bill Generation
+- 🗄️ PostgreSQL Database
+- 🔐 Login System
+
+</td>
+
+<td width="50%">
+
+## 🥦 Grocery Inventory System
+
+### Inventory Management
+
+An application for managing grocery products and inventory.
+
+**Tech Stack**
+
+`Java` `JDBC` `MySQL`
+
+**Features**
+
+- 📦 Product Management
+- 💰 Product Details
+- 📊 Inventory Management
+- 🗄️ Database Integration
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
+---
+
+# 📌 Project Focus
+
+```text
+🧩 Backend Development
+        ↓
+☕ Java & Spring Boot
+        ↓
+🔗 REST APIs
+        ↓
+🗄️ Database Management
+        ↓
+🔐 Security & JWT
+        ↓
+🧩 Microservices
+        ↓
+⚛️ Full Stack Applications
