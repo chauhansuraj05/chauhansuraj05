@@ -20,10 +20,6 @@ I enjoy building practical applications using **Java, Spring Boot, React, databa
 
 I'm currently focusing on becoming a strong **Java Backend / Full Stack Developer** while exploring **Microservices, Cloud Computing, and AI/ML**.
 
-
-Immediately **after it**, paste:
-
-```markdown
 ---
 
 # 🪪 Developer Profile
@@ -37,8 +33,6 @@ Immediately **after it**, paste:
 
 ### 🪪 DEVELOPER ID
 
-<img src="./assets/profile-character.png" width="180">
-
 ### Suraj Chauhan
 
 **Java & Full Stack Developer**
@@ -51,17 +45,17 @@ Immediately **after it**, paste:
 
 <td width="40%">
 
-### 👨‍💻 About Me
+### 👨‍💻 What I Build
 
-I'm a Computer Science Engineering graduate passionate about building practical software applications.
+I build practical applications and REST APIs using modern backend and full-stack technologies.
 
-I enjoy working with **Java, Spring Boot, React, databases and cloud technologies**.
-
-Currently exploring:
+**Currently working with:**
 
 - ☕ Java & Spring Boot
 - 🧩 Microservices
 - 🔐 Spring Security & JWT
+- 🗄️ JPA & Hibernate
+- ⚛️ React
 - ☁️ AWS & Docker
 - 🤖 AI/ML & Spring AI
 
