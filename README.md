@@ -89,3 +89,53 @@ Running • Traveling
 </table>
 
 </div>
+
+---
+
+# 🛠️ Tech Stack
+
+<div align="center">
+
+### ☕ Languages
+
+<img src="https://skillicons.dev/icons?i=java,js,python" />
+
+<br><br>
+
+### ⚙️ Backend
+
+<img src="https://skillicons.dev/icons?i=spring,nodejs,express,hibernate" />
+
+<br><br>
+
+### 🎨 Frontend
+
+<img src="https://skillicons.dev/icons?i=react,html,css" />
+
+<br><br>
+
+### 🗄️ Databases
+
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
+
+<br><br>
+
+### ☁️ Tools & Cloud
+
+<img src="https://skillicons.dev/icons?i=git,github,maven,docker,aws,vscode" />
+
+</div>
+
+---
+
+## 🧩 What I Work With
+
+| Category | Technologies |
+|---|---|
+| 💻 Languages | Java, JavaScript, Python, SQL |
+| ⚙️ Backend | Spring Boot, Spring MVC, Spring Security, Node.js, Express.js |
+| 🌐 Frontend | React, HTML, CSS, JavaScript |
+| 🗄️ Database | MySQL, PostgreSQL, MongoDB |
+| 🧩 Architecture | REST APIs, Microservices |
+| ☁️ Cloud & DevOps | AWS, Docker, Git, GitHub, Maven |
+| 🤖 AI | AI/ML, Spring AI, RAG, Agentic AI |
