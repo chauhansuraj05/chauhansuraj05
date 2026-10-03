@@ -1,5 +1,10 @@
 <div align="center">
 
+<img src="./assets/profile-character.png" alt="Suraj Chauhan" width="850">
+
+</div>
+<div align="center">
+
 <img src="./assets/profile-character.png" alt="Suraj Chauhan Developer Profile" width="100%">
 
 # 👋 Hi, I'm Suraj Chauhan
