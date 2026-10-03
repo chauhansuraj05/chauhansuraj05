@@ -1,12 +1,22 @@
 <div align="center">
 
-<img src="./assets/profile-character.png" alt="Suraj Chauhan Developer Profile" width="100%">
+<img src="./assets/profile-character.png" alt="Suraj Chauhan - Java Full Stack Developer" width="100%">
 
 # 👋 Hi, I'm Suraj Chauhan
 
 ### ☕ Java Developer | 🌱 Spring Boot Developer | 🌐 Full Stack Developer
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=00D9FF&center=true&vCenter=true&width=700&lines=Java+Developer;Spring+Boot+Developer;Backend+Developer;Full+Stack+Developer;AI%2FML+Enthusiast;Always+Learning+%26+Building+%F0%9F%9A%80" alt="Typing SVG">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=00D9FF&center=true&vCenter=true&width=750&lines=Java+Developer;Spring+Boot+Developer;Backend+Developer;Full+Stack+Developer;Microservices+Developer;AI%2FML+Enthusiast;Always+Learning+%26+Building+%F0%9F%9A%80" alt="Typing SVG">
+
+<br>
+
+<a href="https://github.com/chauhansuraj05">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
 
 </div>
 
@@ -14,11 +24,11 @@
 
 # 🚀 About Me
 
-Hi! I'm **Suraj Chauhan**, a Computer Science Engineering graduate and aspiring software developer.
+Hi! I'm **Suraj Chauhan**, a Computer Science Engineering graduate focused on **Java backend and full-stack development**.
 
-I enjoy building practical applications using **Java, Spring Boot, React, databases, and modern cloud technologies**.
+I enjoy building practical applications using **Java, Spring Boot, React, REST APIs, databases, and cloud technologies**.
 
-I'm currently focusing on becoming a strong **Java Backend / Full Stack Developer** while exploring **Microservices, Cloud Computing, and AI/ML**.
+Currently, I'm strengthening my skills in **Spring Security, Microservices, Docker, AWS, and AI-powered applications** while building projects that help me learn by doing.
 
 ---
 
@@ -39,6 +49,8 @@ I'm currently focusing on becoming a strong **Java Backend / Full Stack Develope
 
 📍 Mumbai, India
 
+🎓 B.E. Electronics & Computer Science
+
 🟢 Open to Opportunities
 
 </td>
@@ -47,17 +59,17 @@ I'm currently focusing on becoming a strong **Java Backend / Full Stack Develope
 
 ### 👨‍💻 What I Build
 
-I build practical applications and REST APIs using modern backend and full-stack technologies.
+I build backend and full-stack applications with a focus on clean APIs, database integration, security, and scalable architecture.
 
-**Currently working with:**
+**My current focus:**
 
 - ☕ Java & Spring Boot
-- 🧩 Microservices
 - 🔐 Spring Security & JWT
+- 🧩 Microservices
 - 🗄️ JPA & Hibernate
 - ⚛️ React
 - ☁️ AWS & Docker
-- 🤖 AI/ML & Spring AI
+- 🤖 Spring AI & AI/ML
 
 </td>
 
@@ -68,8 +80,8 @@ I build practical applications and REST APIs using modern backend and full-stack
 **👤 Name**  
 Suraj Chauhan
 
-**💻 Role**  
-Java / Full Stack Developer
+**💻 Focus**  
+Java / Backend / Full Stack
 
 **📍 Location**  
 Mumbai, India
@@ -96,7 +108,7 @@ Running • Traveling
 
 <div align="center">
 
-### ☕ Languages
+### ☕ Programming Languages
 
 <img src="https://skillicons.dev/icons?i=java,js,python" />
 
@@ -137,6 +149,7 @@ Running • Traveling
 | 🌐 Frontend | React, HTML, CSS, JavaScript |
 | 🗄️ Database | MySQL, PostgreSQL, MongoDB |
 | 🧩 Architecture | REST APIs, Microservices |
+| 🔐 Security | Spring Security, JWT |
 | ☁️ Cloud & DevOps | AWS, Docker, Git, GitHub, Maven |
 | 🤖 AI | AI/ML, Spring AI, RAG, Agentic AI |
 
@@ -155,15 +168,17 @@ Running • Traveling
 
 ### E-Commerce Microservices
 
-A full-stack e-commerce application designed using a microservices architecture.
+A full-stack e-commerce application built with a microservices architecture.
 
 **Tech Stack**
 
-`Java` `Spring Boot` `React`  
-`PostgreSQL` `Spring Security` `JWT`  
+`Java` `Spring Boot` `React`
+
+`PostgreSQL` `Spring Security` `JWT`
+
 `Docker` `AWS`
 
-**Features**
+**Key Features**
 
 - 🔐 Authentication & Authorization
 - 👤 User Management
@@ -171,30 +186,34 @@ A full-stack e-commerce application designed using a microservices architecture.
 - 🛒 Shopping Cart
 - 📦 Order Management
 - 🔗 REST APIs
-- 🧩 Microservices
+- 🧩 Microservices Architecture
 
 </td>
 
 <td width="50%">
 
-## 📚 Library Management
+## 📚 Library Management System
 
 ### Full Stack Application
 
-A library management system for managing books, users and library operations.
+A library management application for managing books, users, and library operations.
 
 **Tech Stack**
 
-`Java` `Spring Boot` `React`  
-`MySQL` `JPA/Hibernate` `REST API`
+`Java` `Spring Boot` `React`
 
-**Features**
+`MySQL` `JPA/Hibernate`
+
+`REST API`
+
+**Key Features**
 
 - 📖 Book Management
 - 👤 User Management
 - 🔍 Book Search
 - 📚 Library Operations
 - 🔗 REST APIs
+- 🗄️ Database Integration
 
 </td>
 
@@ -214,7 +233,7 @@ A Java Swing application for customer management and electricity billing.
 
 `Java` `Swing` `JDBC` `PostgreSQL`
 
-**Features**
+**Key Features**
 
 - 👤 Customer Management
 - ⚡ Electricity Billing
@@ -236,7 +255,7 @@ An application for managing grocery products and inventory.
 
 `Java` `JDBC` `MySQL`
 
-**Features**
+**Key Features**
 
 - 📦 Product Management
 - 💰 Product Details
@@ -252,7 +271,7 @@ An application for managing grocery products and inventory.
 
 ---
 
-# 📌 Project Focus
+# 📌 Development Focus
 
 ```text
 🧩 Backend Development
@@ -263,8 +282,12 @@ An application for managing grocery products and inventory.
         ↓
 🗄️ Database Management
         ↓
-🔐 Security & JWT
+🔐 Spring Security & JWT
         ↓
 🧩 Microservices
         ↓
+🐳 Docker & AWS
+        ↓
 ⚛️ Full Stack Applications
+        ↓
+🤖 AI-Powered Applications
