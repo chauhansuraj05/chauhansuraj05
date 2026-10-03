@@ -140,7 +140,6 @@ Running • Traveling
 | ☁️ Cloud & DevOps | AWS, Docker, Git, GitHub, Maven |
 | 🤖 AI | AI/ML, Spring AI, RAG, Agentic AI |
 
-
 ---
 
 # 🚀 Featured Projects
