@@ -1,4 +1,4 @@
-<div align="center">
+<img width="1177" height="920" alt="image" src="https://github.com/user-attachments/assets/4c581ba2-714d-4a92-af94-e98119e2d7b8" /><div align="center">
 
 <img src="./assets/suraj-portrait-animation.gif" alt="Suraj Chauhan - Animated Portrait" width="100%">
 
@@ -31,7 +31,79 @@ I enjoy building practical applications using **Java, Spring Boot, React, REST A
 Currently, I'm strengthening my skills in **Spring Security, Microservices, Docker, AWS, and AI-powered applications** while building projects that help me learn by doing.
 
 ---
+# 🧩 What I Build
 
+<div align="center">
+
+<table>
+<tr>
+
+<td align="center" width="25%">
+
+### ☕
+### Backend
+
+Java & Spring Boot
+
+REST APIs  
+JPA & Hibernate
+
+</td>
+
+<td align="center" width="25%">
+
+### 🧩
+### Microservices
+
+Service Architecture
+
+Spring Security  
+JWT & APIs
+
+</td>
+
+<td align="center" width="25%">
+
+### 🌐
+### Full Stack
+
+React + JavaScript
+
+Frontend + Backend  
+Database Integration
+
+</td>
+
+<td align="center" width="25%">
+
+### 🤖
+### AI Applications
+
+Spring AI
+
+RAG  
+Agentic AI
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
+---
+
+# 🎯 Beyond Coding
+
+<div align="center">
+
+| 🏃 Running | ✈️ Traveling | 💡 Learning | 🚀 Building |
+|:---:|:---:|:---:|:---:|
+| Stay Active | Explore Places | Learn New Tech | Build Projects |
+
+</div>
+
+---
 # 🪪 Developer Profile
 
 <div align="center">
