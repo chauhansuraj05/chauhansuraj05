@@ -1,4 +1,4 @@
-<img width="1177" height="920" alt="image" src="https://github.com/user-attachments/assets/4c581ba2-714d-4a92-af94-e98119e2d7b8" /><div align="center">
+<div align="center">
 
 <img src="./assets/suraj-portrait-animation.gif" alt="Suraj Chauhan - Animated Portrait" width="100%">
 
@@ -11,11 +11,11 @@
 <br>
 
 <a href="https://github.com/chauhansuraj05">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </a>
 
 <a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 
 </div>
@@ -31,6 +31,7 @@ I enjoy building practical applications using **Java, Spring Boot, React, REST A
 Currently, I'm strengthening my skills in **Spring Security, Microservices, Docker, AWS, and AI-powered applications** while building projects that help me learn by doing.
 
 ---
+
 # 🧩 What I Build
 
 <div align="center">
@@ -41,6 +42,7 @@ Currently, I'm strengthening my skills in **Spring Security, Microservices, Dock
 <td align="center" width="25%">
 
 ### ☕
+
 ### Backend
 
 Java & Spring Boot
@@ -53,6 +55,7 @@ JPA & Hibernate
 <td align="center" width="25%">
 
 ### 🧩
+
 ### Microservices
 
 Service Architecture
@@ -65,6 +68,7 @@ JWT & APIs
 <td align="center" width="25%">
 
 ### 🌐
+
 ### Full Stack
 
 React + JavaScript
@@ -77,6 +81,7 @@ Database Integration
 <td align="center" width="25%">
 
 ### 🤖
+
 ### AI Applications
 
 Spring AI
@@ -104,6 +109,7 @@ Agentic AI
 </div>
 
 ---
+
 # 🪪 Developer Profile
 
 <div align="center">
@@ -149,22 +155,28 @@ I build backend and full-stack applications with a focus on clean APIs, database
 
 ### ⚡ Quick Facts
 
-**👤 Name**  
+**👤 Name**
+
 Suraj Chauhan
 
-**💻 Focus**  
+**💻 Focus**
+
 Java / Backend / Full Stack
 
-**📍 Location**  
+**📍 Location**
+
 Mumbai, India
 
-**🎓 Education**  
+**🎓 Education**
+
 B.E. Electronics & Computer Science
 
-**🗣️ Languages**  
+**🗣️ Languages**
+
 English • Hindi
 
-**🏃 Hobbies**  
+**🏃 Hobbies**
+
 Running • Traveling
 
 </td>
@@ -182,31 +194,31 @@ Running • Traveling
 
 ### ☕ Programming Languages
 
-<img src="https://skillicons.dev/icons?i=java,js,python" />
+<img src="https://skillicons.dev/icons?i=java,js,python" alt="Programming Languages">
 
 <br><br>
 
 ### ⚙️ Backend
 
-<img src="https://skillicons.dev/icons?i=spring,nodejs,express,hibernate" />
+<img src="https://skillicons.dev/icons?i=spring,nodejs,express,hibernate" alt="Backend Technologies">
 
 <br><br>
 
 ### 🎨 Frontend
 
-<img src="https://skillicons.dev/icons?i=react,html,css" />
+<img src="https://skillicons.dev/icons?i=react,html,css" alt="Frontend Technologies">
 
 <br><br>
 
 ### 🗄️ Databases
 
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" alt="Databases">
 
 <br><br>
 
 ### ☁️ Tools & Cloud
 
-<img src="https://skillicons.dev/icons?i=git,github,maven,docker,aws,vscode" />
+<img src="https://skillicons.dev/icons?i=git,github,maven,docker,aws,vscode" alt="Tools and Cloud">
 
 </div>
 
