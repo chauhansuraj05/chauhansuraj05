@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/profile-character.png" alt="Suraj Chauhan - Java Full Stack Developer" width="100%">
+<img src="./assets/github-hero-animation-optimized.gif" alt="Suraj Chauhan - Animated Developer Profile" width="100%">
 
 # 👋 Hi, I'm Suraj Chauhan
 
